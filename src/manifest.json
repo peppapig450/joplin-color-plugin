@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.peppapig450.joplin-color-code",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "Color Code Plugin",
+	"description": "Enables shorthand color coding in Joplin Markdown notes.",
+	"author": "Nick",
+	"homepage_url": "",
+	"repository_url": "git@github.com:peppapig450/joplin-color-plugin.git",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
